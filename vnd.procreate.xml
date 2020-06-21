@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/vnd.procreate">
+    <!-- goes in /usr/share/mime/application (probably) -->
+  <comment>Procreate Image</comment>
+  <generic-icon name="image-x-generic"/>
+  <glob pattern="*.procreate"/>
+  <alias type="application/x-procreate"/>
+</mime-type>
