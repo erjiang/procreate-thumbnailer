@@ -1,6 +1,8 @@
 # Procreate thumbnailer
 
-These scripts enable your Linux environment to generate thumbnails for Procreate (\*.procreate) files.
+These scripts enable your Linux environment to generate thumbnails for
+Procreate (\*.procreate) files. Procreate is a popular drawing and painting
+application for iOS.
 
 ## Installation
 
